@@ -1,0 +1,2 @@
+# .github
+Osher.ai readme
